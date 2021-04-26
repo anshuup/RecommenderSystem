@@ -1,6 +1,4 @@
 Name  : Anshu Patel
-ID    : 101082781
-Assignment # : 2
 ----------------------
 
 
